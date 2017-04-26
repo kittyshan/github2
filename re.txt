@@ -1,0 +1,2 @@
+https://www.sitepoint.com/api-calls-angularjs-http-service/  ser
+http://jasonwatmore.com/post/2015/12/09/mean-stack-user-registration-and-login-example-tutorial  logoln
